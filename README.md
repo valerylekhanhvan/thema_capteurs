@@ -1,8 +1,18 @@
-## Welcome to GitHub Pages
+## Bienvenu sur les pages du THEMA Capteurs
 
-You can use the [editor on GitHub](https://github.com/valerylekhanhvan/thema_capteurs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Vous pouvez utiliser l'éditeur intégré pour maintenir et visualiser le code de ce site de dépôt.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[editor on GitHub](https://github.com/valerylekhanhvan/thema_capteurs/edit/master/README.md)
+
+Merci de respecter les conventions suivantes dans votre programme ARDUINO
+
+// Commentaire sur une ligne
+
+/* ---------------------------------------------------------------------- *
+ *                                                                        *
+ * Ceci est un commentaire inclus dans une cartouche de commentaire       *
+ *                                                                        *
+ * ---------------------------------------------------------------------- */
 
 ### Markdown
 
