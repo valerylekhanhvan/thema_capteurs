@@ -8,11 +8,11 @@ Merci de respecter les conventions suivantes dans votre programme ARDUINO
 
 // Commentaire sur une ligne
 
-/* ---------------------------------------------------------------------- *
- *                                                                        *
- * Ceci est un commentaire inclus dans une cartouche de commentaire       *
- *                                                                        *
- * ---------------------------------------------------------------------- */
+/* ---------------------------------------------------------------------- 
+                                                                         
+  Ceci est un commentaire inclus dans une cartouche de commentaire       
+                                                                         
+  ---------------------------------------------------------------------- */
 
 ### Markdown
 
