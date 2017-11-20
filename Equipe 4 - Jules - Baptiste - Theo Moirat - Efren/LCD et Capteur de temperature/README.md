@@ -4,9 +4,8 @@ Ces instructions vous permettront d'obtenir des détails sur le programme.
 
 Ce programme permet d’afficher la température en degré Celsius ainsi qu’un message sur un écran LCD 16 x 2 via une carte Arduino.
 
-Pour réaliser ce programme nous avons utilisé 
+Pour réaliser ce programme nous avons utilisé le Grove Kit Arduino
 
-* le Grove Kit Arduino. 
 * logiciel Arduino 1.8.4.
 * capteur de température
 * écran LCD 16 x 2 
